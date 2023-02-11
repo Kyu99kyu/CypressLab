@@ -1,0 +1,17 @@
+{
+  "name": "cypresslab",
+  "version": "1.0.0",
+  "description": "In this repository I will try to apply everything I'm learning in Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cypress": "^1.1.3",
+    "cypress": "^12.5.1",
+    "typescript": "^4.9.5"
+  }
+}
